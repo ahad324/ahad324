@@ -1,4 +1,4 @@
-![MasterHead](https://webgyaani.com/wp-content/uploads/2018/03/10-Beautiful-Animated-CSS-SVG-Landscape-Designs-1.gif)
+![MasterHead](./BannerImage.png)
 <h1 align="center">Hi 👋, I'm Abdul-Ahad</h1>
 <h3 align="center">🚀 An enthusiastic Frontend Developer with a 🔒 passion for Cybersecurity, proudly representing Pakistan. 🇵🇰</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
