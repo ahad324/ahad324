@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React/NextJs**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://ahad324.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at my [Portfolio](https://ahad324.github.io/Portfolio/) or [AllProjects](https://ahad324.github.io/AllProjects/)
 
 - 💬 Ask me about **programming , Cyber-Security,**
 
