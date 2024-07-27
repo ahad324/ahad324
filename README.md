@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **web-testing**
+- 🔭 I’m currently working on **React/NextJs**
 
-- 🌱 I’m currently learning **Reverse Engineering**
+- 🌱 I’m currently learning **React/NextJs**
 
-- 👨‍💻 All of my projects are available at [https://ahad324.github.io/Portfolio/](https://ahad324.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://ahad324.github.io/Portfolio/)
 
 - 💬 Ask me about **programming , Cyber-Security,**
 
