@@ -58,10 +58,10 @@
   <img src="https://skillicons.dev/icons?i=arduino,processing,figma,ai,vscode" />
 </p>
 
-### OS/Kernel:
+### OS:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=kali,linux,debian,windows" />
+  <img src="https://skillicons.dev/icons?i=kali,windows" />
 </p>
 
 ### Hosting:
