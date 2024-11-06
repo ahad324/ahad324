@@ -31,7 +31,7 @@
 ### Languages:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,ts,py" />
 </p>
 
 ### Front-End:
