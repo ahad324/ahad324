@@ -23,8 +23,11 @@
 ### Connect with me:
 
 <p align="left">
-  <a href="https://instagram.com/ahads_tees" target="blank">
+  <a href="https://www.instagram.com/abdulahad_324/" target="blank">
     <img align="center" src="https://skillicons.dev/icons?i=instagram" alt="ahads_tees" />
+  </a>
+  <a href="https://www.linkedin.com/in/abdul-ahad-a08263273" target="blank">
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="abdulahad" />
   </a>
 </p>
 
