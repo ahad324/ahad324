@@ -79,6 +79,12 @@
   <img src="https://skillicons.dev/icons?i=git,bash,githubactions,npm,postman" />
 </p>
 
+### DevOps / Infrastructure:
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,redis" />
+</p>
+
 ---
 
 <p align="center">
