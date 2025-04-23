@@ -93,6 +93,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahad324&show_icons=true&locale=en&theme=radical" alt="ahad324" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahad324&&theme=radical" alt="ahad324" /></p>
+
+<p><img align="center" src="https://ahad324-github-readme-streak-stats.vercel.app/?user=ahad324&&theme=radical" alt="ahad324" /></p>
+
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ahad324&theme=darkhub&no-bg=true&no-frame=true&title=Stars,Commits,Repositories,Experience,Followers,Issues)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 
 ---
