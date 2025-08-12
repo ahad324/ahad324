@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **React/NextJs**
 - 🌱 I’m currently learning **React/NextJs**
-- 👨‍💻 All of my projects are available at my [Portfolio](https://ahad324.github.io/Portfolio/) or [AllProjects](https://ahad324.github.io/AllProjects/)
+- 👨‍💻 All of my projects are available at my [Portfolio](https://ahad-devsite.netlify.app/) or [AllProjects](https://ahad324.github.io/AllProjects/)
 - 💬 Ask me about **programming, Cyber-Security**
 - 📫 How to reach me **ahadg446@gmail.com**
 - ⚡ Fun fact **I'm Cool 😎**
