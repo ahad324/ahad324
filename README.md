@@ -5,12 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=ahad324&label=Profile%20views&color=0e75b6&style=flat" alt="ahad324" width="150"/>
 </p>
 
-<p align="center"> 
-  <a href="https://twitter.com/" target="blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
-  </a> 
-</p>
-
 - 🔭 I’m currently working on **React/NextJs**
 - 🌱 I’m currently learning **React/NextJs**
 - 👨‍💻 All of my projects are available at my [Portfolio](https://ahad-devsite.netlify.app/) or [AllProjects](https://ahad324.github.io/AllProjects/)
