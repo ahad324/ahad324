@@ -82,10 +82,10 @@
 ---
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahad324&show_icons=true&locale=en&layout=compact&theme=radical" alt="ahad324" />
+  <img align="left" src="https://github-readme-stats-sandy-seven-hjdnur4xkk.vercel.app/api/top-langs?username=ahad324&show_icons=true&locale=en&layout=compact&theme=radical" alt="ahad324" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahad324&show_icons=true&locale=en&theme=radical" alt="ahad324" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-sandy-seven-hjdnur4xkk.vercel.app/api?username=ahad324&show_icons=true&locale=en&theme=radical" alt="ahad324" /></p>
 
 
 <p><img align="center" src="https://ahad324-github-readme-streak-stats.vercel.app/?user=ahad324&&theme=radical" alt="ahad324" /></p>
