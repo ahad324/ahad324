@@ -82,15 +82,20 @@
 ---
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats-sandy-seven-hjdnur4xkk.vercel.app/api/top-langs?username=ahad324&show_icons=true&locale=en&layout=compact&theme=radical" alt="ahad324" />
+  <img src="https://github-readme-stats-sandy-seven-hjdnur4xkk.vercel.app/api/top-langs?username=ahad324&show_icons=true&locale=en&layout=compact&theme=radical" alt="ahad324" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-sandy-seven-hjdnur4xkk.vercel.app/api?username=ahad324&show_icons=true&locale=en&theme=radical" alt="ahad324" /></p>
+<p align="center">
+  <img src="https://github-readme-stats-sandy-seven-hjdnur4xkk.vercel.app/api?username=ahad324&show_icons=true&locale=en&theme=radical" alt="ahad324" />
+</p>
 
+<p align="center">
+  <img src="https://ahad324-github-readme-streak-stats.vercel.app/?user=ahad324&&theme=radical" alt="ahad324" />
+</p>
 
-<p><img align="center" src="https://ahad324-github-readme-streak-stats.vercel.app/?user=ahad324&&theme=radical" alt="ahad324" /></p>
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ahad324&theme=juicyfresh&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+    <img src="https://github-trophies.vercel.app/?username=ahad324&theme=juicyfresh&no-bg=true&no-frame=true" alt="ahad324" />
+</p>
 
 
 
