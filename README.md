@@ -5,10 +5,10 @@
   <img src="https://komarev.com/ghpvc/?username=ahad324&label=Profile%20views&color=0e75b6&style=flat" alt="ahad324" width="150"/>
 </p>
 
-- 🔭 I’m currently working on **React/NextJs**
-- 🌱 I’m currently learning **React/NextJs**
+- 🔭 I’m currently working on **Full-Stack**
+- 🌱 I’m currently learning **DevOps**
 - 👨‍💻 All of my projects are available at my [Portfolio](https://ahad-devsite.netlify.app/) or [AllProjects](https://ahad324.github.io/AllProjects/)
-- 💬 Ask me about **programming, Cyber-Security**
+- 💬 Ask me about **Web Dev, Cyber-Security**
 - 📫 How to reach me **ahadg446@gmail.com**
 - ⚡ Fun fact **I'm Cool 😎**
 
@@ -34,25 +34,25 @@
 ### Front-End:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nextjs,babel,redux,sass,styledcomponents,tailwind,threejs,jquery,materialui,d3,bootstrap,emotion,webpack,workers" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nextjs,redux,styledcomponents,tailwind,threejs,jquery,materialui,d3,bootstrap,emotion,webpack,workers,qt" />
 </p>
 
 ### Back-End:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,expressjs" />
+  <img src="https://skillicons.dev/icons?i=nodejs,expressjs,php,selenium,fastapi" />
 </p>
 
 ### Databases:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=appwrite,mongodb,supabase" />
+  <img src="https://skillicons.dev/icons?i=appwrite,mongodb,postgres,supabase,sqlite,mysql" />
 </p>
 
 ### Tools:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=arduino,processing,figma,ai,vscode" />
+  <img src="https://skillicons.dev/icons?i=arduino,processing,figma,ai,vscode,jest" />
 </p>
 
 ### OS:
@@ -76,7 +76,7 @@
 ### DevOps / Infrastructure:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,redis" />
+  <img src="https://skillicons.dev/icons?i=docker,redis,nginx" />
 </p>
 
 ---
