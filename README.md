@@ -90,7 +90,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=ahad324&&theme=radical" alt="ahad324" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=ahad324&&theme=radical" alt="ahad324" />
 </p>
 
 <p align="center">
