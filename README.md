@@ -40,7 +40,7 @@
 ### Back-End:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,expressjs,php,selenium,fastapi" />
+  <img src="https://skillicons.dev/icons?i=nodejs,expressjs,nestjs,php,selenium,fastapi" />
 </p>
 
 ### Databases:
