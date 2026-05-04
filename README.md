@@ -80,17 +80,16 @@
 </p>
 
 ---
-
 <p align="center">
   <img src="https://github-readme-stats-sandy-seven-hjdnur4xkk.vercel.app/api/top-langs?username=ahad324&show_icons=true&locale=en&layout=compact&theme=radical" alt="ahad324" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sandy-seven-hjdnur4xkk.vercel.app/api?username=ahad324&show_icons=true&locale=en&theme=radical" alt="ahad324" />
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/ahad324?cardType=level-alternate&theme=radical&fontFamily=Segoe%20UI&preferLogin=true" alt="ahad324" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=ahad324&&theme=radical" alt="ahad324" />
+  <img src="https://streak-stats.demolab.com/?user=ahad324&&theme=radical&short_numbers=true" alt="ahad324" />
 </p>
 
 <p align="center">
